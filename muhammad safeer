@@ -1,0 +1,225 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Muhammad Safeer | Portfolio</title>
+
+<style>
+
+body{
+font-family: Arial, sans-serif;
+margin:0;
+background:#f4f4f4;
+}
+
+header{
+background:#111;
+color:white;
+padding:20px;
+text-align:center;
+}
+
+nav{
+background:#333;
+padding:10px;
+text-align:center;
+}
+
+nav a{
+color:white;
+margin:15px;
+text-decoration:none;
+font-weight:bold;
+}
+
+section{
+padding:40px;
+max-width:1000px;
+margin:auto;
+background:white;
+margin-top:20px;
+border-radius:8px;
+}
+
+h2{
+border-bottom:2px solid #eee;
+padding-bottom:10px;
+}
+
+.skills span{
+display:inline-block;
+background:#0077ff;
+color:white;
+padding:8px 12px;
+margin:5px;
+border-radius:4px;
+font-size:14px;
+}
+
+footer{
+text-align:center;
+padding:20px;
+background:#111;
+color:white;
+margin-top:20px;
+}
+
+</style>
+</head>
+
+<body>
+
+<header>
+<h1>Muhammad Safeer</h1>
+<p>Assistant Producer | Project Management Student</p>
+<p>Islamabad, Pakistan</p>
+</header>
+
+<nav>
+<a href="#about">About</a>
+<a href="#experience">Experience</a>
+<a href="#skills">Skills</a>
+<a href="#education">Education</a>
+<a href="#certifications">Certifications</a>
+<a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+
+<h2>Professional Summary</h2>
+
+<p>
+Project Management undergraduate (8th Semester) with experience in media production and digital content operations. Currently working as an Assistant Producer at AUR News with responsibilities including program planning, guest coordination, and production execution. Experienced in production workflows, team coordination, and managing live program logistics. Passionate about media production, project coordination, and digital broadcasting.
+</p>
+
+</section>
+
+<section id="experience">
+
+<h2>Professional Experience</h2>
+
+<h3>AUR News – Islamabad</h3>
+<p><b>Assistant Producer</b> | Current</p>
+
+<ul>
+
+<li>Plan and execute current affairs programs.</li>
+
+<li>Prepare production briefs and rundowns.</li>
+
+<li>Coordinate field teams, guests, and technical staff.</li>
+
+<li>Assist in script development and segment planning.</li>
+
+<li>Manage program flow during live and recorded productions.</li>
+
+</ul>
+
+<h3>Jazz (Tamasha) – Islamabad</h3>
+<p><b>Production Intern</b></p>
+
+<ul>
+
+<li>Assisted production team in digital streaming operations.</li>
+
+<li>Supported content management and program coordination.</li>
+
+<li>Helped manage production workflow for Tamasha streaming platform.</li>
+
+<li>Worked with media production teams on content delivery.</li>
+
+</ul>
+
+</section>
+
+<section id="skills">
+
+<h2>Skills</h2>
+
+<div class="skills">
+
+<span>Program Planning</span>
+
+<span>Production Coordination</span>
+
+<span>Content Research</span>
+
+<span>Guest Coordination</span>
+
+<span>Team Management</span>
+
+<span>Project Management</span>
+
+<span>Time Management</span>
+
+<span>SQL (Basic)</span>
+
+<span>Digital Communication Tools</span>
+
+</div>
+
+</section>
+
+<section id="education">
+
+<h2>Education</h2>
+
+<p>
+
+<b>BS Project Management</b><br>
+
+International Islamic University Islamabad<br>
+
+Final Semester (8th Semester)
+
+</p>
+
+<p>
+
+<b>Intermediate in Computer Science (ICS)</b><br>
+
+Islamabad Model School for Boys F-11/3
+
+</p>
+
+</section>
+
+<section id="certifications">
+
+<h2>Certifications</h2>
+
+<ul>
+
+<li>Foundations of Project Management – Google (Coursera)</li>
+
+<li>Project Initiation: Starting a Successful Project – Google (Coursera)</li>
+
+<li>Project Planning: Putting It All Together – Google (Coursera)</li>
+
+<li>Agile Project Management – Google (Coursera)</li>
+
+</ul>
+
+</section>
+
+<section id="contact">
+
+<h2>Contact</h2>
+
+<p>Email: awansafeer926@gmail.com</p>
+
+<p>Phone: +92 306 5755075</p>
+
+<p>LinkedIn: linkedin.com/in/safeerawan</p>
+
+</section>
+
+<footer>
+
+<p>© 2026 Muhammad Safeer | Portfolio</p>
+
+</footer>
+
+</body>
+</html>
